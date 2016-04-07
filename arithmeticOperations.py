@@ -1,7 +1,7 @@
 
 def add(num1, num2): 
     """Adds 2 numbers together and returns result"""
-    return num1 + num2
+    return num1 + num2 + num3
 
 
 def subtract(num1, num2):
